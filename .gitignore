@@ -1,0 +1,12 @@
+# Arquivos compilados
+*.class
+
+# Configurações do IntelliJ IDEA
+.idea/
+*.iml
+
+# Outras pastas de IDE e compilação
+.vscode/
+bin/
+out/
+target/
